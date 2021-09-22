@@ -1,0 +1,10 @@
+{
+  "Images": ["image/*"],
+  "Video": ["video/*"],
+  "Audio": ["audio/*"],
+  "Fonts": ["font/*"],
+  "Archives": ["application/zip", "application/x-7z-compressed", "application/x-arj", ".zipx"],
+  "Documents": ["application/vnd.openxmlformats*", "text/", "application/msword*", "application/vnd.ms-excel*", "application/vnd.ms-powerpoint*", "application/x-msaccess*", "application/pdf"],
+  "Torrent": ["application/x-bittorrent"],
+  "Other": ["application/octet-stream"]
+}
